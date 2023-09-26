@@ -1,6 +1,6 @@
 ## TRIVIA QUIZ APP
 
-1[Banner Image](images/TriviaQuizApp.png)
+![Banner Image](images/TriviaQuizApp.png)
 
 Trivia Quiz App is a Flutter-based mobile application that quizzes users with 10 random questions. Users need to select the correct answers to earn 1 point for each question.
 
